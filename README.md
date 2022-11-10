@@ -1,4 +1,4 @@
-# codecademy
+# Codecademy Chapter - Coding Squad
 
 Welcome to this repository!
 
